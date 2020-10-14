@@ -1,0 +1,560 @@
+[
+        {
+                "id": 0,
+                "username": "lanatik",
+                "password": "1111",
+                "profilimage": "https://www.urbanbug.net/uploads/events/1438021563-Leto-Salamendara.jpg",
+                "name": "Lana",
+                "surname": "Tikveša",
+                "profession": "ceramist",
+                "bio": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non hic adipisci excepturi sunt, dolor qui. In nulla quod, temporibus recusandae pariatur architecto totam quidem sapiente. Asperiores velit cumque vel modi? Perspiciatis enim odit fugiat quae commodi. At, tenetur aspernatur ipsam eum ratione sed! Unde repellendus quisquam accusantium beatae temporibus debitis laudantium nobis voluptatum! Aperiam asperiores non molestias! Illo, provident magni.Accusamus nam qui omnis alias numquam eligendi dolorum officia recusandae sunt, nobis quisquam corporis dolorem error nisi fuga in deserunt officiis veniam fugiat! Inventore ratione consequatur, veritatis fugiat voluptate odio.Beatae eius vel expedita eveniet deserunt eligendi placeat deleniti tempore? Rem, cumque. Aspernatur, dicta odio atque iusto eos quaerat, aliquam quis perspiciatis id eum perferendis quam ex quas nulla ducimus? Eum consectetur incidunt dolorum! A quisquam quam saepe error porro consequuntur harum vel itaque nobis deleniti quis architecto magnam cumque sapiente praesentium et, provident exercitationem ut dignissimos eius. Doloremque, dolorum!",
+                "status": "",
+                "artworks": [
+                        {
+                                "artworkId": "a00",
+                                "quantity": 1,
+                                "title": "Ukroćena goropad",
+                                "type": "sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 1400,
+                                "image": "./images/ukroćena_goropad.jpg",
+                                "thmbimage": "./images/ukroćena_goropad_small.jpg"
+                        },
+                        {
+                                "artworkId": "a01",
+                                "quantity": 1,
+                                "title": "Blue monday",
+                                "type": "ceramic sculpture",
+                                "dimensions": "75*80*30 cm",
+                                "price": 850,
+                                "image": "./images/blue_monday.jpg",
+                                "thmbimage": "./images/blue_monday_small.jpg"
+                        },
+                        {
+                                "artworkId": "a02",
+                                "quantity": 1,
+                                "title": "Passionate dragon",
+                                "type": "ceramic sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 700,
+                                "image": "./images/crvena.jpg",
+                                "thmbimage": "./images/crvena_small.jpg"
+                        },
+                        {
+                                "artworkId": "a03",
+                                "quantity": 1,
+                                "title": "Monday morning candy",
+                                "type": "ceramic sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 800,
+                                "image": "./images/monday_morning_eye_candy.jpg",
+                                "thmbimage": "./images/monday_morning_eye_candy_small.jpg"
+                        },
+                        {
+                                "artworkId": "a04",
+                                "quantity": 1,
+                                "title": "Assassins beauty set",
+                                "type": "sculpture",
+                                "dimensions": "300*100*40 cm",
+                                "price": 3000,
+                                "image": "./images/Assassins_beauty_set.jpeg",
+                                "thmbimage": "./images/Assassins_beauty_set_small.jpeg"
+                        },
+                        {
+                                "artworkId": "a05",
+                                "quantity": 1,
+                                "title": "Beeing tall",
+                                "type": "ceramic sculpture",
+                                "dimensions": "10*30*10 cm",
+                                "price": 200,
+                                "image": "./images/beeing_tall.jpg",
+                                "thmbimage": "./images/beeing_tall_small.jpg"
+                        },
+                        {
+                                "artworkId": "a06",
+                                "quantity": 1,
+                                "title": "Čajanka",
+                                "type": "ceramic sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 900,
+                                "image": "./images/čajnici.jpg",
+                                "thmbimage": "./images/čajnici.jpg"
+                        },
+                        {
+                                "artworkId": "a07",
+                                "quantity": 1,
+                                "title": "Divlji u srcu",
+                                "type": "sculpture",
+                                "dimensions": "90*80*50 cm",
+                                "price": 700,
+                                "image": "./images/divlji_u_srcu.jpg",
+                                "thmbimage": "./images/divlji_u_srcu_small.jpg"
+                        },
+                        {
+                                "artworkId": "a08",
+                                "quantity": 1,
+                                "title": "Golden afternoon in England",
+                                "type": "sculpture",
+                                "dimensions": "80*100*50 cm",
+                                "price": 700,
+                                "image": "./images/golden_afternoon_in_england.jpg",
+                                "thmbimage": "./images/golden_afternoon_in_england_small.jpg"
+                        },
+                        {
+                                "artworkId": "a09",
+                                "quantity": 1,
+                                "title": "Plod uz čaj",
+                                "type": "sculpture",
+                                "dimensions": "50*70*30 cm",
+                                "price": 300,
+                                "image": "./images/plod_uz_čaj.jpg",
+                                "thmbimage": "./images/plod_uz_čaj_small.jpg"
+                        },
+                        {
+                                "artworkId": "a010",
+                                "quantity": 1,
+                                "title": "She",
+                                "type": "sculpture",
+                                "dimensions": "50*70*30 cm",
+                                "price": 300,
+                                "image": "./images/she.jpg",
+                                "thmbimage": "./images/she_small.jpg"
+                        }
+                ],
+                "posts": [
+                        {
+                                "postId": "p00",
+                                "postTitle": "The significance of contemporery ceramic art",
+                                "postText": "At the heart of some of the most important developments of the twentieth century is the opposition between ceramic as a functional form, and ceramic as art. The first approach was expressed through the revival of studio pottery which is well illustrated in the Gardiner Museum’s collection of international ceramics. The movement originated in Britain by Bernard Leach in the 1920s and promoted hand-crafted pots for everyday life as a reaction against industry. At the same time, other artists working under the influence of Modernism, including Lucie Rie and Hans Coper, sought to liberate pottery from the imperative of function, treating the vessel as an art form. The collection also includes works by contemporary artists who use clay as a medium of sculptural expression. The Gardiner Museum’s collection of international contemporary ceramics was established by Aaron Milrad, and has since been enriched by gifts from Claude and Christine Bissell, and Helen Gardiner, Iris and Jack Lieber, Elizabeth Lipsett, Michael and Mary Mason, Cawthra and Julyan Mulock, Diana Reitberger, and many others.",
+                                "comments": [
+                                        {
+                                                "commentText": "Could pottery really be liberated of its function? If it's not a sculputre made in pottery tehniques...",
+                                                "commentSignature": "Pottery guy",
+                                                "commentId": "c00"
+                                        },
+                                        {
+                                                "commentText": "Could pottery really be liberated of its function? If it's not a sculputre made in pottery tehniques...",
+                                                "commentSignature": "Pottery guy",
+                                                "commentId": "c01"
+                                        }
+                                ]
+                        },
+                        {
+                                "postId": "p01",
+                                "postTitle": "'Why ceramics?'",
+                                "postText": "'Why ceramics? I have come to recognize that clay, an organic material with a long history of human use, readily refers to both nature and culture, to historical as well as geological time. The physical face of soft/hard, inside/outside, and surface/form offer diverse opportunity for considering new relationships among the seemingly disparate. Connections emerge, linking human activity and natural processes, deliberation and chance, what is seen with what is sensed.' Steven Heinemann",
+                                "comments": [
+                                        {
+                                                "commentText": "",
+                                                "commentSignature": "",
+                                                "commentId": ""
+                                        }
+                                ]
+                        }
+                ]
+        },
+        {
+                "id": 1,
+                "username": "vanjasav",
+                "password": "2222",
+                "profilimage": "https://galerijaslika.rs/wp-content/uploads/2015/06/Valentina-Savic.jpeg",
+                "name": "Valentina",
+                "surname": "Savić",
+                "profession": "ceramist",
+                "bio": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non hic adipisci excepturi sunt, dolor qui. In nulla quod, temporibus recusandae pariatur architecto totam quidem sapiente. Asperiores velit cumque vel modi? Perspiciatis enim odit fugiat quae commodi. At, tenetur aspernatur ipsam eum ratione sed! Unde repellendus quisquam accusantium beatae temporibus debitis laudantium nobis voluptatum! Aperiam asperiores non molestias! Illo, provident magni.Accusamus nam qui omnis alias numquam eligendi dolorum officia recusandae sunt, nobis quisquam corporis dolorem error nisi fuga in deserunt officiis veniam fugiat! Inventore ratione consequatur, veritatis fugiat voluptate odio.Beatae eius vel expedita eveniet deserunt eligendi placeat deleniti tempore? Rem, cumque. Aspernatur, dicta odio atque iusto eos quaerat, aliquam quis perspiciatis id eum perferendis quam ex quas nulla ducimus? Eum consectetur incidunt dolorum! A quisquam quam saepe error porro consequuntur harum vel itaque nobis deleniti quis architecto magnam cumque sapiente praesentium et, provident exercitationem ut dignissimos eius. Doloremque, dolorum!",
+                "status": "",
+                "artworks": [
+                        {
+                                "artworkId": "a10",
+                                "quantity": 1,
+                                "title": "Mreža",
+                                "type": "sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 700,
+                                "image": "./images/mreža.jpg",
+                                "thmbimage": "./images/mreža_small.jpg"
+                        },
+                        {
+                                "artworkId": "a11",
+                                "quantity": 1,
+                                "title": "Školjka",
+                                "type": "sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 700,
+                                "image": "./images/školjka_solo.jpg",
+                                "thmbimage": "./images/školjka_solo_small.jpg"
+                        },
+                        {
+                                "artworkId": "a12",
+                                "quantity": 1,
+                                "title": "Izvršni odbor",
+                                "type": "sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 700,
+                                "image": "./images/izvršni odbor.jpg",
+                                "thmbimage": "./images/izvršni odbor_small.jpg"
+                        },
+                        {
+                                "artworkId": "a13",
+                                "quantity": 1,
+                                "title": "Something inside",
+                                "type": "sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 800,
+                                "image": "./images/smth_inside.jpeg",
+                                "thmbimage": "./images/smth_inside.jpeg"
+                        },
+                        {
+                                "artworkId": "a14",
+                                "quantity": 1,
+                                "title": "Existential vase",
+                                "type": "sculpture",
+                                "dimensions": "300*100*40 cm",
+                                "price": 3000,
+                                "image": "./images/existential_vase.jpg",
+                                "thmbimage": "./images/existential_vase.jpg"
+                        },
+                        {
+                                "artworkId": "a15",
+                                "quantity": 1,
+                                "title": "Chair",
+                                "type": "sculpture",
+                                "dimensions": "10*30*10 cm",
+                                "price": 200,
+                                "image": "./images/chair.jpeg",
+                                "thmbimage": "./images/chair.jpeg"
+                        },
+                        {
+                                "artworkId": "a16",
+                                "quantity": 1,
+                                "title": "Braining",
+                                "type": "ceramic sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 900,
+                                "image": "./images/braining.jpg",
+                                "thmbimage": "./images/braining.jpg"
+                        },
+                        {
+                                "artworkId": "a17",
+                                "quantity": 1,
+                                "title": "Bliding",
+                                "type": "sculpture",
+                                "dimensions": "90*80*50 cm",
+                                "price": 700,
+                                "image": "./images/bliding.JPG",
+                                "thmbimage": "./images/bliding.JPG"
+                        },
+                        {
+                                "artworkId": "a18",
+                                "quantity": 1,
+                                "title": "Betonjara",
+                                "type": "ceramic cup",
+                                "dimensions": "8*10*10 cm",
+                                "price": 20,
+                                "image": "./images/betonjara.jpg",
+                                "thmbimage": "./images/betonjara.jpg"
+                        },
+                        {
+                                "artworkId": "a19",
+                                "quantity": 1,
+                                "title": "Who's there?",
+                                "type": "ceramic sculpture",
+                                "dimensions": "50*70*30 cm",
+                                "price": 300,
+                                "image": "./images/guess.jpg",
+                                "thmbimage": "./images/guess.jpg"
+                        },
+                        {
+                                "artworkId": "a110",
+                                "title": "Wings of desire",
+                                "type": "ceramic installation",
+                                "dimensions": "50*70*30 cm",
+                                "price": 300,
+                                "image": "./images/WINGS-OF-DESIRE.jpg",
+                                "thmbimage": "./images/WINGS-OF-DESIRE.jpg"
+                        }
+                ],
+                "posts": [
+                        {
+                                "postId": "p10",
+                                "postTitle": "Contemporary Ceramic Art",
+                                "postText": "Contemporary ceramics, innovative pottery and ceramics, céramique nouveau, avant garde and cutting edge ceramic design and techniques are featured in this post. Add in modernist, postmodern, abstract, la cerámica contemporánea and zeitgenössische keramik and that will cover most of the spectrum of styles on display. Its always refreshing to see artists take risks and successfully create new innovations or invent new interpretations of particular styles. A cornucopia of contemporary ceramics on display.",
+                                "comments":[
+                                        {
+                                                "commentText": "Great article!",
+                                                "commentSignature": "Anyone",
+                                                "commentId": "c10"
+                                        }
+                                ]
+                        }
+                ]
+        },
+        {
+                "id": 2,
+                "username": "veljav",
+                "password": "3333",
+                "profilimage": "https://d38we5ntdyxyje.cloudfront.net/1045249/profile/ZCYJRWWD_avatar_medium_square.jpg",
+                "name": "Velimir",
+                "surname": "Vukićević",
+                "profession": "ceramist",
+                "bio": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non hic adipisci excepturi sunt, dolor qui. In nulla quod, temporibus recusandae pariatur architecto totam quidem sapiente. Asperiores velit cumque vel modi? Perspiciatis enim odit fugiat quae commodi. At, tenetur aspernatur ipsam eum ratione sed! Unde repellendus quisquam accusantium beatae temporibus debitis laudantium nobis voluptatum! Aperiam asperiores non molestias! Illo, provident magni.Accusamus nam qui omnis alias numquam eligendi dolorum officia recusandae sunt, nobis quisquam corporis dolorem error nisi fuga in deserunt officiis veniam fugiat! Inventore ratione consequatur, veritatis fugiat voluptate odio.Beatae eius vel expedita eveniet deserunt eligendi placeat deleniti tempore? Rem, cumque. Aspernatur, dicta odio atque iusto eos quaerat, aliquam quis perspiciatis id eum perferendis quam ex quas nulla ducimus? Eum consectetur incidunt dolorum! A quisquam quam saepe error porro consequuntur harum vel itaque nobis deleniti quis architecto magnam cumque sapiente praesentium et, provident exercitationem ut dignissimos eius. Doloremque, dolorum!",
+                "status": "",
+                "artworks": [
+                        {
+                                "artworkId": "a20",
+                                "quantity": 1,
+                                "title": "Pipci",
+                                "type": "sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 700,
+                                "image": "https://i2.wp.com/artaxis.org/wp-content/uploads/V-Vukicevic-06.jpg?w=371&h=248&ssl=1"
+                        },
+                        {
+                                "artworkId": "a21",
+                                "quantity": 1,
+                                "title": "Oblak",
+                                "type": "sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 700,
+                                "image": "https://i0.wp.com/artaxis.org/wp-content/uploads/V-Vukicevic-01.jpg?w=606&h=404&ssl=1"
+                        },
+                        {
+                                "artworkId": "a22",
+                                "quantity": 1,
+                                "title": "Brod",
+                                "type": "sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 700,
+                                "image": "https://i.pinimg.com/originals/14/bc/db/14bcdb1770fc28e167a45d61bb0e2934.jpg"
+                        },
+                        {
+                                "artworkId": "a23",
+                                "quantity": 1,
+                                "title": "Towers & castles",
+                                "type": "sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 800,
+                                "image": "./images/towers-and-castles.jpg",
+                                "thmbimage": "./images/towers-and-castles.jpg"
+                        },
+                        {
+                                "artworkId": "a24",
+                                "quantity": 1,
+                                "title": "Smooth white",
+                                "type": "sculpture",
+                                "dimensions": "300*100*40 cm",
+                                "price": 3000,
+                                "image": "./images/smooth_white.jpg",
+                                "thmbimage": "./images/smooth_white.jpg"
+                        },
+                        {
+                                "artworkId": "a25",
+                                "quantity": 1,
+                                "title": "Sky over Belgrade",
+                                "type": "sculpture",
+                                "dimensions": "10*30*10 cm",
+                                "price": 200,
+                                "image": "./images/sky-over-Belgrade.jpg",
+                                "thmbimage": "./images/sky-over-Belgrade.jpg"
+                        },
+                        {
+                                "artworkId": "a26",
+                                "quantity": 1,
+                                "title": "Metaforical fugue on mind and machines",
+                                "type": "ceramic sculpture",
+                                "dimensions": "100*100*50 cm",
+                                "price": 900,
+                                "image": "./images/Metaforical-fugue-on-mind-and-machines.jpg",
+                                "thmbimage": "./images/Metaforical-fugue-on-mind-and-machines.jpg"
+                        },
+                        {
+                                "artworkId": "a27",
+                                "quantity": 1,
+                                "title": "Labyrinth",
+                                "type": "sculpture",
+                                "dimensions": "90*80*50 cm",
+                                "price": 700,
+                                "image": "./images/labyrint.jpg",
+                                "thmbimage": "./images/labyrint.jpg"
+                        },
+                        {
+                                "artworkId": "a28",
+                                "quantity": 1,
+                                "title": "Raining over Belgrade",
+                                "type": "ceramic installation",
+                                "dimensions": "100*100*100 cm",
+                                "price": 20,
+                                "image": "./images/kišni.jpg",
+                                "thmbimage": "./images/kišni.jpg"
+                        },
+                        {
+                                "artworkId": "a29",
+                                "quantity": 1,
+                                "title": "Igra stvarnosti",
+                                "type": "ceramic sculpture",
+                                "dimensions": "50*70*30 cm",
+                                "price": 300,
+                                "image": "./images/igra_stvarnosti.jpeg",
+                                "thmbimage": "./images/igra_stvarnosti.jpeg"
+                        },
+                        {
+                                "artworkId": "a210",
+                                "quantity": 1,
+                                "title": "Hug",
+                                "type": "ceramic installation",
+                                "dimensions": "50*70*30 cm",
+                                "price": 300,
+                                "image": "./images/bon_i_bon.jpeg",
+                                "thmbimage": "./images/bon_i_bon.jpeg"
+                        }
+                ],
+                "posts": [
+                        {
+                                "postId": "p20",
+                                "postTitle": "Artistic process",
+                                "postText": "The fantastic process of materializing the idea through a final work always fascinated me and pushed me to be curious and to go on.In my work I have passed through changes and diferent phases. Lately, and for some period now, the pictoral problems I have been trying to solve are: (1) to unify form with illusionary painted parts, and (2) to unify the solid parte of sculpture with more fragile ones within unique shapes.This approach demands rational advance planing of the construction, and concentration to imagine how, many different and separatly made parts or painted parts, are going to look like once joined together. I enjoy playing with our perception and posing absurd riddles. Is that what we see or is it skillful illusion?",
+                                "comments":[
+                                        {
+                                                "commentText": "Great article!",
+                                                "commentSignature": "Anyone",
+                                                "commentId": "c20"
+                                        }
+                                ]
+                        }
+                ]
+        },
+        {
+                "id": 3,
+                "username": "vukcuk",
+                "password": "4444",
+                "profilimage": "https://www.supervizuelna.com/wp-content/uploads/2016/03/5-700x460.jpg",
+                "name": "Vuk",
+                "surname": "Ćuk",
+                "profession": "painter",
+                "bio": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non hic adipisci excepturi sunt, dolor qui. In nulla quod, temporibus recusandae pariatur architecto totam quidem sapiente. Asperiores velit cumque vel modi? Perspiciatis enim odit fugiat quae commodi. At, tenetur aspernatur ipsam eum ratione sed! Unde repellendus quisquam accusantium beatae temporibus debitis laudantium nobis voluptatum! Aperiam asperiores non molestias! Illo, provident magni.Accusamus nam qui omnis alias numquam eligendi dolorum officia recusandae sunt, nobis quisquam corporis dolorem error nisi fuga in deserunt officiis veniam fugiat! Inventore ratione consequatur, veritatis fugiat voluptate odio.Beatae eius vel expedita eveniet deserunt eligendi placeat deleniti tempore? Rem, cumque. Aspernatur, dicta odio atque iusto eos quaerat, aliquam quis perspiciatis id eum perferendis quam ex quas nulla ducimus? Eum consectetur incidunt dolorum! A quisquam quam saepe error porro consequuntur harum vel itaque nobis deleniti quis architecto magnam cumque sapiente praesentium et, provident exercitationem ut dignissimos eius. Doloremque, dolorum!",
+                "status": "",
+                "artworks": [
+                        {
+                                "artworkId": "a30",
+                                "quantity": 1,
+                                "title": "Ugao",
+                                "type": "installation",
+                                "dimensions": "100*100*50 cm",
+                                "price": 700,
+                                "image": "https://2.bp.blogspot.com/-mGEOzxjWLDY/Vz-XQCr3FmI/AAAAAAABn7I/DuZBOZbdOJ8tO_YQ62GWjpWSNZACXW--QCLcB/s1600/IMG_7118.JPG"
+                        },
+                        {
+                                "artworkId": "a31",
+                                "quantity": 1,
+                                "title": "Figura",
+                                "type": "installation",
+                                "dimensions": "100*100*50 cm",
+                                "price": 700,
+                                "image": "https://www.oktobarskisalon.org/wp-content/uploads/2018/08/AS-30.jpg"
+                        },
+                        {
+                                "artworkId": "a32",
+                                "quantity": 1,
+                                "title": "Dve na zidu",
+                                "type": "installation",
+                                "dimensions": "100*100*50 cm",
+                                "price": 700,
+                                "image": "https://wannabemagazine.com/wp-content/uploads/2017/05/Intervju-Vuk-%C4%86uk-slikar-5.jpg"
+                        },
+                        {
+                                "artworkId": "a33",
+                                "quantity": 1,
+                                "title": "Walk man!",
+                                "type": "installation",
+                                "dimensions": "100*100*50 cm",
+                                "price": 800,
+                                "image": "./images/vokmen.jpg",
+                                "thmbimage": "./images/vokmen.jpg"
+                        },
+                        {
+                                "artworkId": "a34",
+                                "quantity": 1,
+                                "title": "Unnamed",
+                                "type": "painting",
+                                "dimensions": "300*100*40 cm",
+                                "price": 3000,
+                                "image": "./images/unnamed2.JPG",
+                                "thmbimage": "./images/unnamed2.JPG"
+                        },
+                        {
+                                "artworkId": "a35",
+                                "quantity": 1,
+                                "title": "Ukućani",
+                                "type": "painting",
+                                "dimensions": "10*30*10 cm",
+                                "price": 200,
+                                "image": "./images/ukućani2.jpg",
+                                "thmbimage": "./images/ukućani2.jpg"
+                        },
+                        {
+                                "artworkId": "a36",
+                                "quantity": 1,
+                                "title": "Perspective",
+                                "type": "painting",
+                                "dimensions": "100*100*50 cm",
+                                "price": 900,
+                                "image": "./images/perspective.jpg",
+                                "thmbimage": "./images/perspective.jpg"
+                        },
+                        {
+                                "artworkId": "a37",
+                                "quantity": 1,
+                                "title": "Impossible perspectives",
+                                "type": "painting",
+                                "dimensions": "90*80*50 cm",
+                                "price": 700,
+                                "image": "./images/impossible-perspectives.jpg",
+                                "thmbimage": "./images/impossible-perspectives.jpg"
+                        },
+                        {
+                                "artworkId": "a38",
+                                "quantity": 1,
+                                "title": "Garden od Eaden",
+                                "type": "painting",
+                                "dimensions": "100*100*100 cm",
+                                "price": 20,
+                                "image": "./images/garden_of_eaden.jpeg",
+                                "thmbimage": "./images/garden_of_eaden.jpeg"
+                        },
+                        {
+                                "artworkId": "a39",
+                                "quantity": 1,
+                                "title": "Dog in the gym",
+                                "type": "painting",
+                                "dimensions": "50*70*30 cm",
+                                "price": 300,
+                                "image": "./images/dog_in_gym.jpg",
+                                "thmbimage": "./images/dog_in_gym.jpg"
+                        },
+                        {
+                                "artworkId": "a310",
+                                "quantity": 1,
+                                "title": "Bf|aF",
+                                "type": "painting",
+                                "dimensions": "50*70*30 cm",
+                                "price": 300,
+                                "image": "./images/bf_af.jpg",
+                                "thmbimage": "./images/bf_af.jpg"
+                        }
+                ],
+                "posts": [
+                        {
+                                "postId": "p30",
+                                "postTitle": "The Works of Art That Define the Contemporary Age",
+                                "postText": "On a recent afternoon in June, T Magazine assembled two curators and three artists — David Breslin, the director of the collection at the Whitney Museum of American Art; the American conceptual artist Martha Rosler; Kelly Taxter, a curator of contemporary art at the Jewish Museum; the Thai conceptual artist Rirkrit Tiravanija; and the American artist Torey Thornton — at the New York Times building to discuss what they considered to be the 25 works of art made after 1970 that define the contemporary age, by anyone, anywhere. The assignment was intentionally wide in its range: What qualifies as “contemporary”? Was this an artwork that had a personal significance, or was its meaning widely understood? Was its influence broadly recognized by critics? Or museums? Or other artists? Originally, each of the participants was asked to nominate 10 artworks — the idea being that everyone would then rank each list to generate a master list that would be debated upon meeting.",
+                                "comments":[
+                                        {
+                                                "commentText": "Great article!",
+                                                "commentSignature": "Anyone",
+                                                "commentId": "c30"
+                                        }
+                                ]
+                        }
+                ]
+        }
+]
